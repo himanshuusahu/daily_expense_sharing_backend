@@ -12,8 +12,8 @@ This project is a backend service for a daily-expenses sharing application built
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/himanshuusahu/daily-expenses-sharing.git
-    cd daily-expenses-sharing
+    git clone https://github.com/himanshuusahu/daily_expense_sharing_backend.git
+    cd daily_expense_sharing_backend
     ```
 
 2. **Create and activate a virtual environment:**
