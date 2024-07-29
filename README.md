@@ -25,6 +25,9 @@ This project is a backend service for a daily-expenses sharing application built
 3. **Install the dependencies:**
     ```bash
     pip install -r requirements.txt
+    or
+    pip install fastapi uvicorn pymongo pydantic
+
     ```
 
 4. **Start MongoDB:**
